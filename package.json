@@ -1,0 +1,15 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/App.js",
+    "end": "nodemon src/App.js" 
+  },
+  "author": "Kushal Sharma",
+  "license": "ISC",
+  "description": "Tinder For Dev",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
